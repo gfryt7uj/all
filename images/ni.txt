@@ -1,0 +1,5 @@
+
+font-family: 'Merriweather', serif;
+
+<h2 id="text"><span>Keep your self cool in hot</span><br>Summer</h2>
+        <a href="#" id="btn">Explore</a>
